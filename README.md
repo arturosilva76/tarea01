@@ -1,9 +1,9 @@
-# Ejercicio de clase 1
+# Tarea 1
 
-El archivo hello.py contiene lo siguiente
+El archivo area.py contiene lo siguiente
 
 ```python
-def hello_world():
+def area_cuadrado():
     # Escribe tu código debajo de este renglón
 ```
 
